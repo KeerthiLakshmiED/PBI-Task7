@@ -84,21 +84,6 @@ Specific findings should be reported only after checking the dashboard results.
 
 ---
 
-## 📁 Project Structure
-
-text
-PBI_Task7/
-├── PBI_Task7.pbix
-├── README.md
-└── screenshots/
-    ├── dashboard-overview.png
-    └── dashboard-details.png
-
-
-*Note:* Add the screenshot files to the screenshots/ folder if you want to use these paths in the repository.
-
----
-
 ## 💡 Learning Outcomes
 
 Through this project, the following skills can be demonstrated:
@@ -119,9 +104,3 @@ The *Student Performance Analysis Dashboard* demonstrates how Microsoft Power BI
 The project provides a clear way to compare subject-wise average scores and examine the distribution of overall student results.
 
 ---
-
-<div align="center">
-
-*📊 Built with Microsoft Power BI*
-
-</div>
