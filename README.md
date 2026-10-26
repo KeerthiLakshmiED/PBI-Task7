@@ -5,21 +5,6 @@ An interactive data visualization project built using *Microsoft Power BI* to ex
 
 ---
 
-## 📑 Table of Contents
-
-- [Project Overview](#-project-overview)
-- [Project Objectives](#-project-objectives)
-- [Tools and Technologies](#-tools-and-technologies)
-- [Dashboard Features](#-dashboard-features)
-- [Dashboard Screenshot](#-dashboard-screenshot)
-- [Analysis Opportunities](#-analysis-opportunities)
-- [How to Run the Project](#-how-to-run-the-project)
-- [Project Structure](#-project-structure)
-- [Learning Outcomes](#-learning-outcomes)
-- [Conclusion](#-conclusion)
-
----
-
 ## 📌 Project Overview
 
 The *Student Performance Analysis Dashboard* is a data visualization project developed using Microsoft Power BI. It presents student academic performance through interactive visualizations, KPI cards, and filters.
@@ -79,7 +64,7 @@ These filters allow users to explore the available data based on selected catego
 
 The screenshot below provides a preview of the Power BI dashboard.
 
-<img width="1348" height="737" alt="Screenshot 2026-10-26 080758" src="https://github.com/user-attachments/assets/69d61a62-aac7-417a-afb3-0f18753d8bb0" />
+<img width="379" height="209" alt="Screenshot 2026-10-26 220740" src="https://github.com/user-attachments/assets/bf240e0b-b907-41cc-88ce-a3a18bc613f5" />
 
 
 ---
@@ -96,16 +81,6 @@ The dashboard can be used to explore:
 - Changes in displayed results when applying subject and demographic filters.
 
 Specific findings should be reported only after checking the dashboard results.
-
----
-
-## 🚀 How to Run the Project
-
-1. Install *Microsoft Power BI Desktop*.
-2. Clone or download this repository.
-3. Open PBI_Task7.pbix in Power BI Desktop.
-4. If prompted, configure data-source access or refresh the data.
-5. Explore the dashboard using the charts and slicers.
 
 ---
 
